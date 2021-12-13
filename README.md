@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ## 👩🏻‍💻Junior Back-end developer [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kk5448599@gmail.com)](mailto:kk5448599@gmail.com)
+ ## 👩🏻‍💻Junior Full-Stack developer [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kk5448599@gmail.com)](mailto:kk5448599@gmail.com)
 <p align="center">
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanliang38&show_icons=true&theme=redical&hide_title=true&count_private=true&hide=stars&line_height=30) 
