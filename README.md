@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <br>
 
 ## ▎🧑‍💻 Portfolio Notion
-- ### https://rogue-burn-fcd.notion.site/406c3008ec794fafb3fc70e7df21f88b
+- ### https://rogue-burn-fcd.notion.site/ae547b35117646feaf5a7d629e62cea4
 <br><br>
 
 
