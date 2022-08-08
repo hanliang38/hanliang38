@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  ## 👩🏻‍💻Junior Full-Stack developer [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kk5448599@gmail.com)](mailto:kk5448599@gmail.com)
 <p align="center">
  
-![hanliang38's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanliang38&show_icons=true&theme=redical&hide_title=true&count_private=true&hide=stars&line_height=30) 
+![hanliang38's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanliang38&show_icons=true&theme=redical&hide_title=false&count_private=true&hide=stars&line_height=30) 
 &nbsp; 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanliang38&layout=compact)](https://github.com/hanliang38)
 
