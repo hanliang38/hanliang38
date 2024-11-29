@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=290&section=header&text=Mira%20Kwak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior-Developer%20:%20Code-Ludens%20hanling38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=290&section=header&text=Mira%20Kwak&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-StackDeveloper%20:%20hanling38&descAlignY=51&descAlign=62)
 
 <!--
 **hanliang38/hanliang38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
